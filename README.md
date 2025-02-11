@@ -117,6 +117,3 @@ For example:
 
 This script is open-source and can be used freely for educational or personal projects.
 
----
-
-This README provides a clear overview of the script, its purpose, and how to use it, while staying within 500 words.
