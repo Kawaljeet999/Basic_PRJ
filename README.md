@@ -1,8 +1,4 @@
-# Basic_PRJ
-
-Here's a README file for your project:
-
----
+# WebScraper 
 
 # Bedsheet Size Data Extraction
 
